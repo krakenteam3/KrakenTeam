@@ -1,0 +1,19 @@
+{
+"tropic":"ballgame",
+"apps_flyer": "iLDM6636BSqKF7BdGecEMd",
+"game": "off",
+"url_backend": "",
+"url": "https://bvotrex-leagu3.info/CYhsbKMb",
+"campaigns": [
+        {
+            "id": "",
+            "link": "",
+            "onesignal": "",
+        },
+        {
+            "id": "campaign2",
+            "link": "link2",
+            "onesignal": "one_signal2",
+        }
+]
+}
